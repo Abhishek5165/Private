@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div className="homePage">
       <React.StrictMode>
-        <Hero></Hero>
+        <Hero/>
         <Trending/>
         <Popular/>
         <TopRated/>
