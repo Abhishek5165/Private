@@ -58,7 +58,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 - 🔍 **Select**: Enhance your user interface with interactive and customizable select option using the React Select library.
 
-<h2>Live link - [https://private-nine-phi.vercel.app/]</h2> 
+<h2>Live link - https://private-nine-phi.vercel.app/</h2> 
 
 ##  🖥️ Screen Preview: 
 
@@ -80,7 +80,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/Abhishek5165/Private
+git clone https://github.com/Abhishek5165/Private.git
 ```
 
 <p>2. Install the required dependencies </p>
