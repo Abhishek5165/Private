@@ -10,14 +10,13 @@ import Upcoming from "./Upcoming/Upcoming";
 const Home = () => {
   return (
     <div className="homePage">
-      <React.StrictMode>
+    
         <Hero/>
         <Trending/>
         <Popular/>
         <TopRated/>
         <Upcoming/>
-
-      </React.StrictMode>
+        
     </div>
   );
 };
