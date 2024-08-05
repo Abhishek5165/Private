@@ -58,6 +58,15 @@
             &:hover {
                 color: var(--pink);
             }
+            .notify {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                position: relative;
+                background-color: #ffff;
+                padding-left: 11px;
+                border-radius: 30%;
+            }
         }
     }
 
@@ -71,6 +80,15 @@
         svg {
             font-size: 18px;
             color: white;
+        }
+        .notify {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            background-color: #ffff;
+            padding-left: 11px;
+            border-radius: 30%;
         }
     }
 
